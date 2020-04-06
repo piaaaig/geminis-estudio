@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="es">
   <head>
-    <title>Awka Sport</title>
+    <title>AWKA Sport</title>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
     
@@ -285,17 +285,17 @@
       </div>
 	</section>
 	
-	<section class="ftco-section ftco-section-more img" style="background-image: url('images/bg_4.jpg');">
+	<section class="ftco-section ftco-section-more img" style="background-color: black;">
     	<div class="container">
     		<div class="row justify-content-center mb-3 pb-3">
           <div class="col-md-12 heading-section ftco-animate">
-			  <h2>Rebeldes en el fin del mundo</h2>
+          	<h2>Rebeldes en el fin del mundo</h2>
           </div>
         </div>
     	</div>
     </section>
 
-	<section class="ftco-section bg-light ftco-services">
+    <section class="ftco-section bg-light ftco-services">
     	<div class="container">
     		<div class="row justify-content-center mb-3 pb-3">
           <div class="col-md-12 heading-section text-center ftco-animate">
